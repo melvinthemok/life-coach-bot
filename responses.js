@@ -19,6 +19,14 @@ const SWEET_NOTHINGS = [
   'You are exquisite'
 ]
 
+const TOUGH_LOVE = [
+  'Satisfaction is the death of desire',
+  'The only easy day was yesterday',
+  'Pain is weakness leaving the body',
+  'Talent is given, greatness is earned',
+  'What we do now echoes in eternity'
+]
+
 const ASSERTIONS = [
   '#truth',
   'You know it\'s true',
