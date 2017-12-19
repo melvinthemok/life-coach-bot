@@ -24,7 +24,8 @@ const TOUGH_LOVE = [
   'The only easy day was yesterday',
   'Pain is weakness leaving the body',
   'Talent is given, greatness is earned',
-  'What we do now echoes in eternity'
+  'What we do now echoes in eternity',
+  'Train hard. Fight easy?'
 ]
 
 const ASSERTIONS = [
