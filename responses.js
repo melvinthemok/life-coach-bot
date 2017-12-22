@@ -11,7 +11,7 @@ const SWEET_NOTHINGS = [
   'You are perfect in every way',
   'You deserve every happiness',
   'The world is your oyster',
-  'You can do anything you put your mind to',
+  'No one can do what you can',
   'Nothing can stop you',
   'You can run through walls',
   'You can achieve anything you want',
