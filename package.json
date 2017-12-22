@@ -1,0 +1,26 @@
+{
+  "name": "life-coach-bot",
+  "version": "1.0.0",
+  "description": "for those in need",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvinthemok/life-coach-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/melvinthemok/life-coach-bot/issues"
+  },
+  "homepage": "https://github.com/melvinthemok/life-coach-bot#readme",
+  "dependencies": {
+    "speakeasy-nlp": "^0.2.12"
+  }
+}
