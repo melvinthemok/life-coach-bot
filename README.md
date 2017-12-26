@@ -10,4 +10,4 @@ The bot who believes in you
 
 ## Run
 
-`node index.js`
+`yarn start`
